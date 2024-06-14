@@ -1,0 +1,40 @@
+[0.014s] Invoking command in '/home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_cpp_example': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_cpp_example -- -j8 -l8
+[0.025s] [0mCMake Error: The current CMakeCache.txt directory /home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_cpp_example/CMakeCache.txt is different than the directory /home/mr_ray/bumperbot_ws/build/bumperbot_cpp_example where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt[0m
+[0.114s] [ 12%] Built target simple_parameter
+[0.115s] [ 25%] Built target simple_publisher
+[0.124s] [ 37%] Built target simple_tf_kinematics
+[0.130s] [ 50%] Built target simple_lifecycle_node
+[0.131s] [ 62%] Built target simple_subscriber
+[0.133s] [ 75%] Built target simple_service_client
+[0.134s] [ 87%] Built target simple_turtlesim_kinematics
+[0.139s] [100%] Built target simple_service_server
+[0.159s] Invoked command in '/home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_cpp_example' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_cpp_example -- -j8 -l8
+[0.245s] Invoking command in '/home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_cpp_example': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_cpp_example
+[0.256s] -- Install configuration: ""
+[0.256s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/include/include
+[0.256s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/include/include/bumperbot_cpp_example
+[0.257s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/include/include/bumperbot_cpp_example/simpple_turtlesim_kinematics.hpp
+[0.257s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/include/include/bumperbot_cpp_example/simple_tf_kinematics.hpp
+[0.257s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_publisher
+[0.257s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_subscriber
+[0.257s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_parameter
+[0.258s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_turtlesim_kinematics
+[0.258s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_tf_kinematics
+[0.258s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_service_server
+[0.258s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_service_client
+[0.259s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/ament_index/resource_index/package_run_dependencies/bumperbot_cpp_example
+[0.259s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/ament_index/resource_index/parent_prefix_path/bumperbot_cpp_example
+[0.259s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/environment/ament_prefix_path.sh
+[0.259s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/environment/ament_prefix_path.dsv
+[0.259s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/environment/path.sh
+[0.260s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/environment/path.dsv
+[0.260s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/local_setup.bash
+[0.261s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/local_setup.sh
+[0.261s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/local_setup.zsh
+[0.273s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/local_setup.dsv
+[0.273s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/package.dsv
+[0.273s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/ament_index/resource_index/packages/bumperbot_cpp_example
+[0.273s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/cmake/bumperbot_cpp_exampleConfig.cmake
+[0.274s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/cmake/bumperbot_cpp_exampleConfig-version.cmake
+[0.274s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/package.xml
+[0.278s] Invoked command in '/home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_cpp_example' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_cpp_example

@@ -1,0 +1,37 @@
+[0.042s] Invoking command in '/home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_firmware': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_firmware -- -j8 -l8
+[0.054s] [0mCMake Error: The current CMakeCache.txt directory /home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_firmware/CMakeCache.txt is different than the directory /home/mr_ray/bumperbot_ws/build/bumperbot_firmware where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt[0m
+[0.155s] [ 16%] [32mBuilding CXX object CMakeFiles/bumperbot_firmware.dir/src/bumperbot_interface.cpp.o[0m
+[0.162s] [ 50%] Built target simple_serial_transmitter
+[0.166s] [ 83%] Built target simple_serial_reciever
+[0.171s] [ 83%] Built target ament_cmake_python_copy_bumperbot_firmware
+[0.659s] running egg_info
+[0.663s] writing bumperbot_firmware.egg-info/PKG-INFO
+[0.666s] writing dependency_links to bumperbot_firmware.egg-info/dependency_links.txt
+[0.667s] writing top-level names to bumperbot_firmware.egg-info/top_level.txt
+[0.671s] reading manifest file 'bumperbot_firmware.egg-info/SOURCES.txt'
+[0.671s] writing manifest file 'bumperbot_firmware.egg-info/SOURCES.txt'
+[0.752s] [ 83%] Built target ament_cmake_python_build_bumperbot_firmware_egg
+[3.742s] [01m[K/home/mr_ray/bumperbot_ws/src/bumperbot_firmware/src/bumperbot_interface.cpp:[m[K In member function ‘[01m[Kvirtual bumperbot_firmware::CallbackReturn bumperbot_firmware::BumperbotInterface::on_activate(const rclcpp_lifecycle::State&)[m[K’:
+[3.743s] [01m[K/home/mr_ray/bumperbot_ws/src/bumperbot_firmware/src/bumperbot_interface.cpp:73:83:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kprevious_state[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[3.743s]    73 |     CallbackReturn BumperbotInterface::on_activate([01;35m[Kconst rclcpp_lifecycle::State &previous_state[m[K)
+[3.743s]       |                                                    [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+[3.744s] [01m[K/home/mr_ray/bumperbot_ws/src/bumperbot_firmware/src/bumperbot_interface.cpp:[m[K In member function ‘[01m[Kvirtual bumperbot_firmware::CallbackReturn bumperbot_firmware::BumperbotInterface::on_deactivate(const rclcpp_lifecycle::State&)[m[K’:
+[3.744s] [01m[K/home/mr_ray/bumperbot_ws/src/bumperbot_firmware/src/bumperbot_interface.cpp:94:85:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kprevious_state[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[3.745s]    94 |     CallbackReturn BumperbotInterface::on_deactivate([01;35m[Kconst rclcpp_lifecycle::State &previous_state[m[K)
+[3.745s]       |                                                      [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+[3.745s] [01m[K/home/mr_ray/bumperbot_ws/src/bumperbot_firmware/src/bumperbot_interface.cpp:[m[K In member function ‘[01m[Kvirtual hardware_interface::return_type bumperbot_firmware::BumperbotInterface::read(const rclcpp::Time&, const rclcpp::Duration&)[m[K’:
+[3.745s] [01m[K/home/mr_ray/bumperbot_ws/src/bumperbot_firmware/src/bumperbot_interface.cpp:112:82:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ktime[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[3.746s]   112 |     hardware_interface::return_type BumperbotInterface::read([01;35m[Kconst rclcpp::Time &time[m[K,const rclcpp::Duration &period)
+[3.746s]       |                                                              [01;35m[K~~~~~~~~~~~~~~~~~~~~^~~~[m[K
+[3.746s] [01m[K/home/mr_ray/bumperbot_ws/src/bumperbot_firmware/src/bumperbot_interface.cpp:112:111:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kperiod[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[3.746s]   112 |     hardware_interface::return_type BumperbotInterface::read(const rclcpp::Time &time,[01;35m[Kconst rclcpp::Duration &period[m[K)
+[3.746s]       |                                                                                       [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~[m[K
+[3.748s] [01m[K/home/mr_ray/bumperbot_ws/src/bumperbot_firmware/src/bumperbot_interface.cpp:[m[K In member function ‘[01m[Kvirtual hardware_interface::return_type bumperbot_firmware::BumperbotInterface::write(const rclcpp::Time&, const rclcpp::Duration&)[m[K’:
+[3.748s] [01m[K/home/mr_ray/bumperbot_ws/src/bumperbot_firmware/src/bumperbot_interface.cpp:138:83:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ktime[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[3.748s]   138 |     hardware_interface::return_type BumperbotInterface::write([01;35m[Kconst rclcpp::Time &time[m[K,const rclcpp::Duration &period)
+[3.748s]       |                                                               [01;35m[K~~~~~~~~~~~~~~~~~~~~^~~~[m[K
+[3.749s] [01m[K/home/mr_ray/bumperbot_ws/src/bumperbot_firmware/src/bumperbot_interface.cpp:138:112:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kperiod[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[3.749s]   138 |     hardware_interface::return_type BumperbotInterface::write(const rclcpp::Time &time,[01;35m[Kconst rclcpp::Duration &period[m[K)
+[3.749s]       |                                                                                        [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~[m[K
+[4.953s] [100%] [32m[1mLinking CXX static library libbumperbot_firmware.a[0m
+[5.072s] [100%] Built target bumperbot_firmware

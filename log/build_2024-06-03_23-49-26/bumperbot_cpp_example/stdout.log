@@ -1,0 +1,42 @@
+[ 25%] Built target simple_service_server
+[ 25%] Built target simple_publisher
+[ 37%] Built target simple_parameter
+[ 50%] Built target simple_tf_kinematics
+[ 62%] Built target simple_subscriber
+[ 75%] Built target simple_service_client
+[ 87%] Built target simple_turtlesim_kinematics
+[100%] Built target simple_lifecycle_node
+-- Install configuration: ""
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/include/include
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/include/include/bumperbot_cpp_example
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/include/include/bumperbot_cpp_example/simpple_turtlesim_kinematics.hpp
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/include/include/bumperbot_cpp_example/simple_tf_kinematics.hpp
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_publisher
+-- Set runtime path of "/home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_publisher" to ""
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_subscriber
+-- Set runtime path of "/home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_subscriber" to ""
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_parameter
+-- Set runtime path of "/home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_parameter" to ""
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_turtlesim_kinematics
+-- Set runtime path of "/home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_turtlesim_kinematics" to ""
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_tf_kinematics
+-- Set runtime path of "/home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_tf_kinematics" to ""
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_service_server
+-- Set runtime path of "/home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_service_server" to ""
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_service_client
+-- Set runtime path of "/home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/lib/bumperbot_cpp_example/simple_service_client" to ""
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/ament_index/resource_index/package_run_dependencies/bumperbot_cpp_example
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/ament_index/resource_index/parent_prefix_path/bumperbot_cpp_example
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/environment/ament_prefix_path.sh
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/environment/ament_prefix_path.dsv
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/environment/path.sh
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/environment/path.dsv
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/local_setup.bash
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/local_setup.sh
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/local_setup.zsh
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/local_setup.dsv
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/package.dsv
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/ament_index/resource_index/packages/bumperbot_cpp_example
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/cmake/bumperbot_cpp_exampleConfig.cmake
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/cmake/bumperbot_cpp_exampleConfig-version.cmake
+-- Installing: /home/mr_ray/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/package.xml

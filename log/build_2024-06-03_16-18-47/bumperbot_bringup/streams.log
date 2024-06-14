@@ -1,0 +1,8 @@
+[0.038s] Invoking command in '/home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_bringup -- -j8 -l8
+[0.058s] [0mCMake Error: The current CMakeCache.txt directory /home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_bringup/CMakeCache.txt is different than the directory /home/mr_ray/bumperbot_ws/build/bumperbot_bringup where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt[0m
+[0.565s] Invoked command in '/home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_bringup -- -j8 -l8
+[0.639s] Invoking command in '/home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_bringup
+[0.653s] -- Install configuration: ""
+[0.653s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_bringup/share/bumperbot_bringup/launch
+[0.654s] -- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_bringup/share/bumperbot_bringup/package.dsv
+[0.659s] Invoked command in '/home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_bringup

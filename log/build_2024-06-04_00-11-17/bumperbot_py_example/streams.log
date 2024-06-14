@@ -1,0 +1,25 @@
+[1.680s] Invoking command in '/home/mr_ray/bumperbot_ws/src/bumperbot_py_example': PYTHONPATH=/home/mr_ray/bumperbot_ws/build/bumperbot_py_example/prefix_override:/home/mr_ray/bumperbot_ws/install/bumperbot_py_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bumperbot_py_example build --build-base /home/mr_ray/bumperbot_ws/build/bumperbot_py_example/build install --record /home/mr_ray/bumperbot_ws/build/bumperbot_py_example/install.log --single-version-externally-managed install_data
+[2.059s] running egg_info
+[2.059s] writing ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/PKG-INFO
+[2.060s] writing dependency_links to ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/dependency_links.txt
+[2.060s] writing entry points to ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/entry_points.txt
+[2.060s] writing requirements to ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/requires.txt
+[2.061s] writing top-level names to ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/top_level.txt
+[2.063s] reading manifest file '../../build/bumperbot_py_example/bumperbot_py_example.egg-info/SOURCES.txt'
+[2.064s] writing manifest file '../../build/bumperbot_py_example/bumperbot_py_example.egg-info/SOURCES.txt'
+[2.064s] running build
+[2.064s] running build_py
+[2.065s] running install
+[2.065s] running install_lib
+[2.067s] running install_data
+[2.067s] running install_egg_info
+[2.070s] removing '/home/mr_ray/bumperbot_ws/install/bumperbot_py_example/lib/python3.10/site-packages/bumperbot_py_example-0.0.0-py3.10.egg-info' (and everything under it)
+[2.070s] Copying ../../build/bumperbot_py_example/bumperbot_py_example.egg-info to /home/mr_ray/bumperbot_ws/install/bumperbot_py_example/lib/python3.10/site-packages/bumperbot_py_example-0.0.0-py3.10.egg-info
+[2.071s] running install_scripts
+[2.095s] Installing simple_parameter script to /home/mr_ray/bumperbot_ws/install/bumperbot_py_example/lib/bumperbot_py_example
+[2.096s] Installing simple_publisher script to /home/mr_ray/bumperbot_ws/install/bumperbot_py_example/lib/bumperbot_py_example
+[2.096s] Installing simple_subscriber script to /home/mr_ray/bumperbot_ws/install/bumperbot_py_example/lib/bumperbot_py_example
+[2.097s] Installing simple_tf_kinematics script to /home/mr_ray/bumperbot_ws/install/bumperbot_py_example/lib/bumperbot_py_example
+[2.097s] Installing simple_turtlesim_kinematics script to /home/mr_ray/bumperbot_ws/install/bumperbot_py_example/lib/bumperbot_py_example
+[2.097s] writing list of installed files to '/home/mr_ray/bumperbot_ws/build/bumperbot_py_example/install.log'
+[2.133s] Invoked command in '/home/mr_ray/bumperbot_ws/src/bumperbot_py_example' returned '0': PYTHONPATH=/home/mr_ray/bumperbot_ws/build/bumperbot_py_example/prefix_override:/home/mr_ray/bumperbot_ws/install/bumperbot_py_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bumperbot_py_example build --build-base /home/mr_ray/bumperbot_ws/build/bumperbot_py_example/build install --record /home/mr_ray/bumperbot_ws/build/bumperbot_py_example/install.log --single-version-externally-managed install_data

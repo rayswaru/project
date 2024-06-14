@@ -1,0 +1,7 @@
+[0mCMake Error: The current CMakeCache.txt directory /home/mr_ray/Desktop/bumperbot_ws/build/bumperbot_description/CMakeCache.txt is different than the directory /home/mr_ray/bumperbot_ws/build/bumperbot_description where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt[0m
+-- Install configuration: ""
+-- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes
+-- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/urdf
+-- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/launch
+-- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/rviz
+-- Up-to-date: /home/mr_ray/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/package.dsv
